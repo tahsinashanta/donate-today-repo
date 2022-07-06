@@ -136,9 +136,9 @@ hr{
     display: flex;
     margin-left: 26%;
     text-align: left;
-    margin-bottom: 10%;
+    margin-bottom: 2.5%;
 }
-.card-1{
+.card{
     height: 280px;
     width: 260px;
     padding: 20px;
@@ -154,4 +154,42 @@ hr{
 }
 .card-description{
     padding: 1.9%;
+}
+.donate{
+    display: flex;
+}
+.h5{
+    font-size: 25px;
+    padding-left: 400px;
+    margin-left: 10%;
+    width: 30%;
+    font-weight: 900;
+    line-height: 38px;
+    text-shadow: 1px solid gray;
+}
+.p-5{
+padding-left: 400px;
+font-size: 12px;
+margin-left: 10%;
+width: 30%;
+}
+.donate-1{
+    width: 70%;
+    padding-top: 1%;
+}
+.donate-pic img{
+    margin-top: 3%;;
+    width: 50%;
+    border-radius: 10px;
+}
+.how-to-contribute{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: red;
+    margin-left: 46%;
+    padding: 13px 13px;
+    border-radius: 5px;
+    text-shadow: 10px solid red;
 }
