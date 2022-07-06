@@ -123,4 +123,35 @@ hr{
     padding-bottom: 35px;
     line-height: 28px;
 }
-
+.service-container{
+    margin-top: 3%;
+}
+.title-1{
+    font-size: 22px;
+}
+.p-4{
+    font-size: 13px;
+}
+.service-container{
+    display: flex;
+    margin-left: 26%;
+    text-align: left;
+    margin-bottom: 10%;
+}
+.card-1{
+    height: 280px;
+    width: 260px;
+    padding: 20px;
+    background-color: rgb(232, 248, 248);
+    border-radius: 5px;
+    margin-right: 1%;
+}
+.h-6{
+    font-size: 20px;
+}
+.icon1{
+    width: 50px;
+}
+.card-description{
+    padding: 1.9%;
+}
