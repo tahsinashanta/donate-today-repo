@@ -178,8 +178,9 @@ width: 30%;
     padding-top: 1%;
 }
 .donate-pic img{
-    margin-top: 3%;;
-    width: 50%;
+    margin-top: 3%;
+    width: 40%;
+    height: 80%;
     border-radius: 10px;
 }
 .how-to-contribute{
@@ -192,4 +193,67 @@ width: 30%;
     padding: 13px 13px;
     border-radius: 5px;
     text-shadow: 10px solid red;
+}
+.donate-ppl{
+    display: flex;
+}
+.how-to-contribute-2{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: red;
+    padding: 13px 13px;
+    border-radius: 5px;
+    text-shadow: 10px solid red;
+}
+.flex2{
+    display: flex;
+}
+.donate-today-2 img{
+    width: 30%;
+    height: 75%;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.h6{
+    font-size: 25px;
+    font-weight: 600;
+}
+.p-6{
+    font-size: 12px;
+    width: 40%;
+}
+.donate-text{
+    margin-top: 80px;
+}
+.get-my-updates{
+    margin-top: 5%;
+    font-size: 45px;
+    text-align: center;
+}
+.p-7{
+font-size: 18px;
+text-align: center;
+width: 50%;
+margin-left: 25%;
+}
+
+.btn{
+    border-color: red;
+    margin: none;
+    background-color: red; 
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px 1px;
+}
+.email1{
+    background-color: rgb(245, 244, 244);
+    padding: 10px;
+}
+.email-button-subscribe{
+    text-align: center;
+    margin-top: 5%;
+    background-color: bisque;
 }
