@@ -27,8 +27,8 @@ body {
     margin: auto;
     font-size: 17px;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     font-weight: 500;
     line-height: 28px;
 }
@@ -110,6 +110,8 @@ body {
 input {
     padding: 5px;
     font-size: 20px;
+    border: 0;
+    margin-left: 5%;
 }
 
 hr {
@@ -139,13 +141,14 @@ hr {
 
 .p-3 {
     font-size: 17px;
-    font-weight: bold;
-    color: rgb(172, 172, 172);
+    font-weight: 300;
+    color: rgb(129, 128, 128);
     width: 40%;
     margin: auto;
     text-align: center;
     padding-bottom: 35px;
     line-height: 28px;
+    text-shadow: .25px .25px .5px gray;
 }
 
 .service-container {
@@ -313,9 +316,10 @@ hr {
 
 .email-box {
     margin-top: 15%;
-    background-color: rgb(233, 231, 231);
-    padding: 16px;
+    background-color: rgb(245, 241, 241);
+    padding: 18px;
     border-radius: 5px;
+    border: 0;
 }
 
 .footer-1 {
