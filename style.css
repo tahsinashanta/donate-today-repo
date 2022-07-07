@@ -1,14 +1,16 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
     font-size: 45px;
     margin: 0%;
 }
-.banner{
+
+.banner {
     background-image: url(donate-today-main/images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-.help{
+
+.help {
     color: white;
     font-size: 65px;
     width: 50%;
@@ -18,7 +20,8 @@ body{
     font-weight: bolder;
     line-height: .80in;
 }
-.p-1{
+
+.p-1 {
     color: white;
     width: 35%;
     margin: auto;
@@ -29,21 +32,24 @@ body{
     font-weight: 500;
     line-height: 28px;
 }
-.donate-now{
+
+.donate-now {
     color: white;
-    font-size: 17px;
+    font-size: 20px;
     font-weight: 600;
     text-decoration: none;
     background-color: red;
-    margin-left: 9.4in;
-    padding: 14px 16px;
+    margin-left: 9in;
+    padding: 14px 25px;
     border-radius: 5px;
-    text-shadow: 10px solid red;
+    text-shadow: .5px .5px .5px rgb(233, 230, 230);
 }
-.resize{
+
+.resize {
     padding-bottom: 9%;
 }
-.donate-today{
+
+.donate-today {
     font-size: 45px;
     width: 40%;
     margin: auto;
@@ -51,7 +57,8 @@ body{
     padding-bottom: 10px;
     text-align: center;
 }
-.p-2{
+
+.p-2 {
     font-size: 17px;
     font-weight: bolder;
     color: rgb(104, 103, 103);
@@ -64,7 +71,8 @@ body{
     line-height: 28px;
     font-weight: 400;
 }
-.money{
+
+.money {
     color: rgb(97, 97, 97);
     text-align: center;
     font-size: 25px;
@@ -75,45 +83,52 @@ body{
     margin: 10px;
     width: 8%
 }
-.red{
+
+.red {
     color: red;
     background-color: rgb(248, 224, 224);
     border: 2px solid red;
 }
-.flexible-container{
+
+.flexible-container {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     margin-bottom: 1%;
 }
-.taka{
+
+.taka {
     font-size: 18px;
     color: rgb(165, 164, 164);
     padding-top: 30px;
     text-align: center;
 }
-.input-amount{
+
+.input-amount {
     text-align: center;
 }
-input{
+
+input {
     padding: 5px;
     font-size: 20px;
 }
-hr{
+
+hr {
     width: 50%;
     color: gray;
 }
-.donate-now-2{ 
+
+.donate-now-2 {
     color: white;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 600;
     text-decoration: none;
     background-color: red;
-    margin-left: 9.3in;
-    padding: 14px 16px;
+    margin-left: 9in;
+    padding: 14px 25px;
     border-radius: 5px;
-    text-shadow: 10px solid red;
 }
-.donate-plan{
+
+.donate-plan {
     font-size: 40px;
     margin: 0;
     text-align: center;
@@ -121,7 +136,8 @@ hr{
     padding-bottom: 1%;
     padding-left: 1%;
 }
-.p-3{
+
+.p-3 {
     font-size: 17px;
     font-weight: bold;
     color: rgb(172, 172, 172);
@@ -131,22 +147,27 @@ hr{
     padding-bottom: 35px;
     line-height: 28px;
 }
-.service-container{
+
+.service-container {
     margin-top: 3%;
 }
-.title-1{
+
+.title-1 {
     font-size: 22px;
 }
-.p-4{
+
+.p-4 {
     font-size: 13px;
 }
-.service-container{
+
+.service-container {
     display: flex;
     margin-left: 26%;
     text-align: left;
     margin-bottom: 2.5%;
 }
-.card{
+
+.card {
     height: 280px;
     width: 260px;
     padding: 20px;
@@ -154,19 +175,24 @@ hr{
     border-radius: 5px;
     margin-right: 1%;
 }
-.h-6{
+
+.h-6 {
     font-size: 20px;
 }
-.icon1{
+
+.icon1 {
     width: 50px;
 }
-.card-description{
+
+.card-description {
     padding: 1.9%;
 }
-.donate{
+
+.donate {
     display: flex;
 }
-.h5{
+
+.h5 {
     font-size: 25px;
     padding-left: 400px;
     margin-left: 10%;
@@ -175,23 +201,27 @@ hr{
     line-height: 38px;
     text-shadow: 1px solid gray;
 }
-.p-5{
-padding-left: 400px;
-font-size: 12px;
-margin-left: 10%;
-width: 30%;
+
+.p-5 {
+    padding-left: 400px;
+    font-size: 15px;
+    margin-left: 10%;
+    width: 30%;
 }
-.donate-1{
+
+.donate-1 {
     width: 70%;
     padding-top: 1%;
 }
-.donate-pic img{
+
+.donate-pic img {
     margin-top: 3%;
     width: 40%;
     height: 80%;
     border-radius: 10px;
 }
-.how-to-contribute{
+
+.how-to-contribute {
     color: white;
     font-size: 15px;
     font-weight: 600;
@@ -202,47 +232,105 @@ width: 30%;
     border-radius: 5px;
     text-shadow: 10px solid red;
 }
-.donate-text{
+
+.donate-text {
     margin-top: 80px;
 }
-.get-my-updates{
+
+#green {
+    color: rgb(11, 192, 11);
+}
+
+.green-lives {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.how-container {
+    display: flex;
+    margin: 0%;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    background-color: rgb(231, 250, 237);
+    padding: 3%;
+}
+
+.blood {
+    font-size: 20px;
+    text-align: center;
+}
+
+.clothes {
+    font-size: 20px;
+    text-align: center;
+}
+
+.clothes-pic {
+    width: 33%;
+}
+
+.education {
+    font-size: 20px;
+    text-align: center;
+}
+
+.get-my-updates {
     margin-top: 5%;
     font-size: 45px;
     text-align: center;
 }
-.p-7{
-font-size: 18px;
-text-align: center;
-width: 50%;
-margin-left: 25%;
+
+.p-7 {
+    font-size: 18px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 5%;
 }
-.input-email-section{
+
+.input-email-section {
     text-align: center;
     background-color: blanchedalmond;
     margin-left: 600px;
     margin-right: 600px;
-   
     padding-bottom: 100px;
     border-radius: 10px;
 }
-.email-box{
-    margin-top: 15%;
+
+.subs-button {
+    background-color: red;
+    padding-top: 17px;
+    padding-bottom: 14px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
 }
 
-.footer-1{
+.email-box {
+    margin-top: 15%;
+    background-color: rgb(233, 231, 231);
+    padding: 16px;
+    border-radius: 5px;
+}
+
+.footer-1 {
     font-family: 'Dancing Script', cursive;
     text-align: center;
     font-size: 30px;
     line-height: 30px;
     color: red;
 }
-.footer-text{
+
+.footer-text {
     font-size: 10px;
     text-align: center;
     padding-top: 5px;
     color: white;
 }
-.footer-info{
+
+.footer-info {
     background-color: black;
     height: 100px;
     padding-top: 25px;
