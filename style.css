@@ -253,6 +253,7 @@ hr {
     margin-top: 5%;
     background-color: rgb(231, 250, 237);
     padding: 3%;
+    box-shadow: 1px 1px 5px rgb(202, 199, 199);
 }
 
 .blood {
@@ -298,7 +299,9 @@ hr {
 }
 
 .subs-button {
+    font-size: 17px;
     background-color: red;
+    text-decoration: none;
     padding-top: 17px;
     padding-bottom: 14px;
     padding-right: 30px;
