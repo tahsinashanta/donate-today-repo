@@ -108,10 +108,14 @@ body {
 }
 
 input {
-    padding: 5px;
+    padding: 2px;
     font-size: 20px;
     border: 0;
     margin-left: 5%;
+}
+
+::placeholder {
+    color: rgb(207, 203, 203);
 }
 
 hr {
@@ -125,7 +129,7 @@ hr {
     font-weight: 600;
     text-decoration: none;
     background-color: red;
-    margin-left: 9in;
+    margin-left: 9.2in;
     padding: 14px 25px;
     border-radius: 5px;
 }
@@ -298,6 +302,7 @@ hr {
     margin-left: 600px;
     margin-right: 600px;
     padding-bottom: 100px;
+    padding-right: 40px;
     border-radius: 10px;
 }
 
